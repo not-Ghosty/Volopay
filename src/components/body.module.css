@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#body {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.Card {
+  text-align: center;
+  width: 100% !important;
+  height: 20em !important;
+  border: 1px solid black;
+
+  position: relative;
+}
+.newcard {
+  width: 20%;
+  text-align: center;
+  border: 1px solid black;
+  margin-left: 150px;
+  margin-top: 70px;
+}
+#imgs {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 10%;
+  height: 10%;
+}

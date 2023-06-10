@@ -1,0 +1,129 @@
+{
+"data": [
+{
+"name": "Mixmax",
+"budget_name": "Software subscription",
+"owner_id": 1,
+"id":1,
+"spent": {
+"value": 100,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 1000,
+"currency": "SGD"
+},
+"card_type": "burner",
+"expiry": "9 feb",
+"limit": 100,
+"status": "active",
+"icon":"https://imgur.com/a/LrRapHz"
+},
+{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 2,
+"id":2,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "subscription",
+"limit": 10,
+"status": "active",
+"icon":"https://imgur.com/a/Wu5U1YU"
+},
+{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 3,
+"id":3,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "subscription",
+"limit": 20,
+"status": "blocked",
+"icon":"https://imgur.com/a/Wu5U1YU"
+},{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 4,
+"id":4,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "burner",
+"expiry": "15 feb",
+"limit": 100,
+"status": "active",
+"icon":"https://imgur.com/a/Wu5U1YU"
+},{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 5,
+"id":5,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "burner",
+"expiry": "20 mar",
+"limit": 100,
+"status": "active",
+"icon":"https://imgur.com/a/Wu5U1YU"
+},{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 6,
+"id":6,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "subscription",
+"limit": 10,
+"status": "active",
+"icon":"https://imgur.com/a/Wu5U1YU"
+},{
+"name": "Quickbooks",
+"budget_name": "Software subscription",
+"owner_id": 7,
+"id":7,
+"spent": {
+"value": 50,
+"currency": "SGD"
+},
+"available_to_spend": {
+"value": 250,
+"currency": "SGD"
+},
+"card_type": "subscription",
+"limit": 50,
+"status": "active",
+"icon":"https://imgur.com/a/Wu5U1YU"
+}
+]
+}
