@@ -1,19 +1,19 @@
 Run these Commands:
 
-1. #npm install react-bootstrap bootstrap
+1. ### `npm install react-bootstrap bootstrap`
 This command allows you to import bootstrap files and css
 
-2. #npm install axios
+2. ### `npm install axios`
 This command is used to fetch data from API 
 
-3. #npm run json:server
+3. ### `npm run json:server`
 This command installs and runs json-server
  
-4. #npx json-server Backend/API.json --watch -p 5000
+4. ### `npx json-server Backend/API.json --watch -p 5000`
 This command watches the API.json file to retrieve data 
 
-5. #npm i react-router
-6. #npm i react-router-dom
+5. ### `npm i react-router`
+6. ### `npm i react-router-dom`
 This command allows Routing between components
 
 run "npx json-server Backend/API.json --watch -p 5000" to Run the API file.
