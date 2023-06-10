@@ -6,14 +6,14 @@ This command allows you to import bootstrap files and css
 2. ### `npm install axios`
 This command is used to fetch data from API 
 
-3. ### `npm run json:server`
-This command installs and runs json-server
+
  
 4. ### `npx json-server Backend/API.json --watch -p 5000`
 This command watches the API.json file to retrieve data 
 
 5. ### `npm i react-router`
 6. ### `npm i react-router-dom`
+7. ### `npm start`
 This command allows Routing between components
 
 run "npx json-server Backend/API.json --watch -p 5000" to Run the API file.
