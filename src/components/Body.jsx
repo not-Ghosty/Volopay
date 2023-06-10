@@ -5,7 +5,7 @@ import img1 from "./credit-card.png";
 
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-const Body = () => {
+const Body = (props) => {
   const [card, setCard] = useState([]);
 
   useEffect(() => {
@@ -13,7 +13,7 @@ const Body = () => {
       setCard(res.data);
       console.log(res.data);
     });
-  }, [card]);
+  }, []);
 
   const j = card.map((i) => (
     <Link to={`/yourcards/${i.owner_id}`} style={{ width: "20%" }}>
