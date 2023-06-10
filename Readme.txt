@@ -8,7 +8,8 @@ Run these Commands:
 5. npm i react-router-dom
 
 
-run "npx json-server Backend/API.json --watch -p 5000" to Run the API file.
+run "npx json-server Backend/API.json --watch -p 5000" to Run the API file. 
+now create another console window and run the below command
 run "npm start" to run the project.
 
 In this project I have created a dummy API locally and if you click a card,
